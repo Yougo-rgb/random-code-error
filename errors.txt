@@ -1,0 +1,10 @@
+NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
+./main.c:118: warning 110: conditional flow changed by optimizer: so said EVELYN the modified DOG
+UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
+IndexError: list index out of range
+TypeError: undefined is not a function
+Segmentation fault (core dumped)
+ReferenceError: x is not defined
+fatal error: unexpected EOF while looking for matching '}'
+panic: runtime error: index out of range
+java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
