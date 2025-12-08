@@ -1,0 +1,32 @@
+name: Update random error
+
+on:
+    schedule:
+        - cron: "*/30 * * * *"
+    workflow_dispatch:
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repo (auto-update branch)
+              uses: actions/checkout@v4
+              with:
+                ref: auto-update
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                python-version: "3.x"
+            
+            - name: Run generator
+              run: python generator.py
+
+            - name: Commit and push
+              run: |
+                git config user.name "github-actions[bot]"
+                git config user.email "github-actions[bot]@users.noreply.github.com"
+                git add ERROR.md
+                git commit -m "update random error" || echo "No changes to commit"
+                git push
