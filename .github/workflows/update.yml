@@ -10,10 +10,9 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-            - name: Checkout repo (auto-update branch)
+            - name: Checkout main
               uses: actions/checkout@v4
               with:
-                ref: auto-update
                 fetch-depth: 0
 
             - name: Set up Python
@@ -33,5 +32,5 @@ jobs:
                     echo "No changes to commit"
                 else
                     git commit -m "Update random error"
-                    git push origin auto-update
+                    git push origin HEAD:refs/heads/auto-update
                 fi
