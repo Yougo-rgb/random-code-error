@@ -1,3 +1,3 @@
 ```txt
-ReferenceError: x is not defined
+fatal error: unexpected EOF while looking for matching '}'
 ```
