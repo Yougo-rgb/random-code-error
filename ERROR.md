@@ -1,3 +1,3 @@
 ```txt
-fatal error: unexpected EOF while looking for matching '}'
+NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
 ```
