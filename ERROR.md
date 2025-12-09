@@ -1,3 +1,3 @@
 ```txt
-Segmentation fault (core dumped)
+UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
