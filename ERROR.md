@@ -1,3 +1,3 @@
 ```txt
-NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
+java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
 ```
