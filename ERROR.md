@@ -1,3 +1,3 @@
 ```txt
-Segmentation fault (core dumped)
+ReferenceError: x is not defined
 ```
