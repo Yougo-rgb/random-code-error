@@ -1,3 +1,3 @@
 ```txt
-UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
+java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
 ```
