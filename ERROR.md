@@ -1,3 +1,3 @@
 ```txt
-IndexError: list index out of range
+panic: runtime error: index out of range
 ```
