@@ -1,3 +1,3 @@
 ```txt
-Segmentation fault (core dumped)
+TypeError: undefined is not a function
 ```
