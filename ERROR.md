@@ -1,3 +1,3 @@
 ```txt
-Segmentation fault (core dumped)
+IndexError: list index out of range
 ```
