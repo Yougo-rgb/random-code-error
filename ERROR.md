@@ -1,3 +1,3 @@
 ```txt
-IndexError: list index out of range
+TypeError: undefined is not a function
 ```
