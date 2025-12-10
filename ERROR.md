@@ -1,3 +1,3 @@
 ```txt
-Segmentation fault (core dumped)
+java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
 ```
