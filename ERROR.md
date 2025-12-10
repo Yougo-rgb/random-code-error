@@ -1,3 +1,3 @@
 ```txt
-TypeError: undefined is not a function
+UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
