@@ -1,3 +1,3 @@
 ```txt
-TypeError: undefined is not a function
+fatal error: unexpected EOF while looking for matching '}'
 ```
