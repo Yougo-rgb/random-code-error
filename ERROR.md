@@ -1,3 +1,3 @@
 ```txt
-ReferenceError: x is not defined
+IndexError: list index out of range
 ```
