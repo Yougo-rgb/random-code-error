@@ -1,3 +1,3 @@
 ```txt
-UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
+panic: runtime error: index out of range
 ```
