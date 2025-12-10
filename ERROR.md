@@ -1,3 +1,3 @@
 ```txt
-fatal error: unexpected EOF while looking for matching '}'
+panic: runtime error: index out of range
 ```
