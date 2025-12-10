@@ -1,3 +1,3 @@
 ```txt
-NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
+Segmentation fault (core dumped)
 ```
