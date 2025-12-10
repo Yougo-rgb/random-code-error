@@ -1,3 +1,3 @@
 ```txt
-TypeError: undefined is not a function
+NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
 ```
