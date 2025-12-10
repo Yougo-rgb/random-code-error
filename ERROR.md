@@ -1,3 +1,3 @@
 ```txt
-Segmentation fault (core dumped)
+panic: runtime error: index out of range
 ```
