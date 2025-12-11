@@ -1,7 +1,7 @@
 import random
 from PIL import Image, ImageDraw, ImageFont
 
-# Open errors.txt and add every line withour whitespace
+# Open errors.txt and add every line without whitespace
 errors = []
 with open("errors.txt", "r", encoding="utf-8") as f:
     for line in f:
@@ -9,21 +9,25 @@ with open("errors.txt", "r", encoding="utf-8") as f:
         if stripped_line:
             errors.append(stripped_line)
 
-# Select a random error
-chosen = random.choice(errors)
+# Select a random error and user
+error = random.choice(errors)
+users = ["user", "root", "yougo-rgb", "octocat", "tux"]
+user = random.choice(users)
 
-# Write the chosen error on ERROR.md
+content = f"{user}@linux:~$ {error}"
+
+# Write the error in ERROR.md
 with open("ERROR.md", "w", encoding="utf-8") as f:
-    f.write(f"```txt\n{chosen}\n```")
+    f.write(f"```txt\n{content}\n```")
 
 # Image generation settings
 padding = 20
 background = (0, 0, 0)
-foreground = (255, 255, 255)
 border_radius = 12
-font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf", 25)
+font = ImageFont.truetype("./DejaVuSansMono.ttf", 25)
+font_colors = [ (255, 255, 255), (255, 0, 0), (0, 255, 0)]
 
-lines = chosen.split("\n")
+lines = content.split("\n")
 
 # Creat a temp image to measure text sizes
 temp_img = Image.new("RGB", (1, 1))
@@ -41,8 +45,9 @@ draw.rounded_rectangle(
     radius=border_radius,
     fill=background
 )
-# Render each line of text
+# Render each line of text and select a random color
 x = padding
+foreground = random.choice(font_colors)
 for line in lines:
     bbox = draw.textbbox((0, 0), line, font=font)
     line_height = bbox[3]
