@@ -1,3 +1,3 @@
 ```txt
-IndexError: list index out of range
+NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
 ```
