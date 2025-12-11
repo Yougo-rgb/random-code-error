@@ -1,3 +1,3 @@
 ```txt
-ReferenceError: x is not defined
+TypeError: undefined is not a function
 ```
