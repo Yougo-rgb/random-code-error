@@ -1,3 +1,3 @@
 ```txt
-panic: runtime error: index out of range
+TypeError: undefined is not a function
 ```
