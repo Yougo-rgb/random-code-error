@@ -1,3 +1,3 @@
 ```txt
-ReferenceError: x is not defined
+UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
