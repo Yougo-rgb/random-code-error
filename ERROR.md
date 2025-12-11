@@ -1,3 +1,3 @@
 ```txt
-fatal error: unexpected EOF while looking for matching '}'
+UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
