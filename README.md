@@ -33,13 +33,11 @@ Contributions are welcome!
 3. Submit a Pull Request  
 4. And wait: _so said EVELYN the modified DOG_
 
-## About
-I saw some GitHub profiles displaying random dev quotes and thought:
-
-__“Why not random coding errors instead?”__
-
-So here we are.
+## 📋 About
+I saw some GitHub profiles displaying random dev quotes and thought:<br>
+__“Why not random coding errors instead?”__<br>
+So here we are...
 
 
-## Author
-- [Pozzi Hugo](https://github.com/Yougo-rgb)
+## 📌 Author
+- **Hugo Pozzi** — [Yougo-rgb](https://github.com/Yougo-rgb)
