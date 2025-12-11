@@ -1,3 +1,3 @@
 ```txt
-Segmentation fault (core dumped)
+fatal error: unexpected EOF while looking for matching '}'
 ```
