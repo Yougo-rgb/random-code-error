@@ -1,3 +1,3 @@
 ```txt
-IndexError: list index out of range
+fatal error: unexpected EOF while looking for matching '}'
 ```
