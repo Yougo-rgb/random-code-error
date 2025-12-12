@@ -8,3 +8,7 @@ ReferenceError: x is not defined
 fatal error: unexpected EOF while looking for matching '}'
 panic: runtime error: index out of range
 java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+ModuleNotFoundError : No module named 'PIL'
+error: failed to push some refs to 'https://github.com/Yougo-rgb/random-code-error'
+No event triggers defined in `on`
+python: can't open file '/home/runner/work/random-code-error/random-code-error/generator.py': [Errno 2] No such file or directory
