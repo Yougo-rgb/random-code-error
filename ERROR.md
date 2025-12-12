@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ IndexError: list index out of range
+yougo-rgb@linux:~$ TypeError: undefined is not a function
 ```
