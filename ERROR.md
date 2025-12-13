@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ panic: runtime error: index out of range
+yougo-rgb@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
