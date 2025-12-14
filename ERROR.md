@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ No event triggers defined in `on`
+yougo-rgb@linux:~$ panic: runtime error: index out of range
 ```
