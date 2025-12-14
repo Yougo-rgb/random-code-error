@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ panic: runtime error: index out of range
+user@linux:~$ TypeError: undefined is not a function
 ```
