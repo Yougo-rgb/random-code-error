@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
+tux@linux:~$ Segmentation fault (core dumped)
 ```
