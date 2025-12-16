@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ TypeError: undefined is not a function
+user@linux:~$ IndexError: list index out of range
 ```
