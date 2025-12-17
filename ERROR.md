@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ No event triggers defined in `on`
+root@linux:~$ ModuleNotFoundError : No module named 'PIL'
 ```
