@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ Segmentation fault (core dumped)
+tux@linux:~$ TypeError: undefined is not a function
 ```
