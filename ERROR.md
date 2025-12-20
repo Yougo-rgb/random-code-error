@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ TypeError: undefined is not a function
+user@linux:~$ error: failed to push some refs to 'https://github.com/Yougo-rgb/random-code-error'
 ```
