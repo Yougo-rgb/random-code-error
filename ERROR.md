@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
+octocat@linux:~$ No event triggers defined in `on`
 ```
