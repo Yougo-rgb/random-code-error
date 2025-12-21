@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
+yougo-rgb@linux:~$ Segmentation fault (core dumped)
 ```
