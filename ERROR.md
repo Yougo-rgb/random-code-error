@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ panic: runtime error: index out of range
+tux@linux:~$ ModuleNotFoundError : No module named 'PIL'
 ```
