@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ panic: runtime error: index out of range
+root@linux:~$ IndexError: list index out of range
 ```
