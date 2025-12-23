@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
+tux@linux:~$ ./main.c:118: warning 110: conditional flow changed by optimizer: so said EVELYN the modified DOG
 ```
