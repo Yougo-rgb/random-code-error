@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ ReferenceError: x is not defined
+tux@linux:~$ ModuleNotFoundError : No module named 'PIL'
 ```
