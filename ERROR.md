@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ fatal error: unexpected EOF while looking for matching '}'
+yougo-rgb@linux:~$ No event triggers defined in `on`
 ```
