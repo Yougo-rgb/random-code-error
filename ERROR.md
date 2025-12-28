@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ ModuleNotFoundError : No module named 'PIL'
+octocat@linux:~$ TypeError: undefined is not a function
 ```
