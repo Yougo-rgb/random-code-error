@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
+root@linux:~$ IndexError: list index out of range
 ```
