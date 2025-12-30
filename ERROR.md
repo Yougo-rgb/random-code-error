@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ No event triggers defined in `on`
+tux@linux:~$ IndexError: list index out of range
 ```
