@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ error: failed to push some refs to 'https://github.com/Yougo-rgb/random-code-error'
+user@linux:~$ java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
 ```
