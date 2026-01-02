@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ ReferenceError: x is not defined
+octocat@linux:~$ Segmentation fault (core dumped)
 ```
