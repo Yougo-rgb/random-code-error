@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
+yougo-rgb@linux:~$ ReferenceError: x is not defined
 ```
