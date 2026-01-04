@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ Segmentation fault (core dumped)
+tux@linux:~$ Segmentation fault (core dumped)
 ```
