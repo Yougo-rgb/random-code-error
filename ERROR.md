@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ ModuleNotFoundError : No module named 'PIL'
+root@linux:~$ Segmentation fault (core dumped)
 ```
