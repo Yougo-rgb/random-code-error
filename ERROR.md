@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
+yougo-rgb@linux:~$ TypeError: undefined is not a function
 ```
