@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ fatal error: unexpected EOF while looking for matching '}'
+octocat@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
