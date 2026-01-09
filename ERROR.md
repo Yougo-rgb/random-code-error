@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ ReferenceError: x is not defined
+tux@linux:~$ NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
 ```
