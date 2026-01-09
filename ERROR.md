@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
+root@linux:~$ No event triggers defined in `on`
 ```
