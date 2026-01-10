@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ ModuleNotFoundError : No module named 'PIL'
+user@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
