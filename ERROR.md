@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ ModuleNotFoundError : No module named 'PIL'
+user@linux:~$ TypeError: undefined is not a function
 ```
