@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ fatal error: unexpected EOF while looking for matching '}'
+tux@linux:~$ TypeError: undefined is not a function
 ```
