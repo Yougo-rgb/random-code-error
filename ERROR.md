@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ ModuleNotFoundError : No module named 'PIL'
+user@linux:~$ No event triggers defined in `on`
 ```
