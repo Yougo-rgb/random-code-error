@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ No event triggers defined in `on`
+tux@linux:~$ fatal error: unexpected EOF while looking for matching '}'
 ```
