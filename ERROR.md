@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ No event triggers defined in `on`
+yougo-rgb@linux:~$ ./main.c:118: warning 110: conditional flow changed by optimizer: so said EVELYN the modified DOG
 ```
