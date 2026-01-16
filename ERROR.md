@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ No event triggers defined in `on`
+yougo-rgb@linux:~$ error: failed to push some refs to 'https://github.com/Yougo-rgb/random-code-error'
 ```
