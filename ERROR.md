@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ panic: runtime error: index out of range
+tux@linux:~$ Segmentation fault (core dumped)
 ```
