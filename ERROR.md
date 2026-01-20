@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ Segmentation fault (core dumped)
+octocat@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
