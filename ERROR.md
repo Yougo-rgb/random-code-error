@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ Segmentation fault (core dumped)
+octocat@linux:~$ java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
 ```
