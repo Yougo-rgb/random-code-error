@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ panic: runtime error: index out of range
+octocat@linux:~$ error: failed to push some refs to 'https://github.com/Yougo-rgb/random-code-error'
 ```
