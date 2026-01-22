@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+octocat@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
