@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ No event triggers defined in `on`
+tux@linux:~$ No event triggers defined in `on`
 ```
