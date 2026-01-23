@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ ReferenceError: x is not defined
+yougo-rgb@linux:~$ IndexError: list index out of range
 ```
