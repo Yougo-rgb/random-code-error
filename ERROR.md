@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ TypeError: undefined is not a function
+user@linux:~$ No event triggers defined in `on`
 ```
