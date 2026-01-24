@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ TypeError: undefined is not a function
+octocat@linux:~$ panic: runtime error: index out of range
 ```
