@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ ReferenceError: x is not defined
+user@linux:~$ panic: runtime error: index out of range
 ```
