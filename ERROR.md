@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ Segmentation fault (core dumped)
+octocat@linux:~$ ReferenceError: x is not defined
 ```
