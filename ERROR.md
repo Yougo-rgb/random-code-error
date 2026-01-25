@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ No event triggers defined in `on`
+user@linux:~$ TypeError: undefined is not a function
 ```
