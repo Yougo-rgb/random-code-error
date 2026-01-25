@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ error: failed to push some refs to 'https://github.com/Yougo-rgb/random-code-error'
+root@linux:~$ IndexError: list index out of range
 ```
