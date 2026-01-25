@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ IndexError: list index out of range
+user@linux:~$ panic: runtime error: index out of range
 ```
