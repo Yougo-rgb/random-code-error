@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ ReferenceError: x is not defined
+octocat@linux:~$ No event triggers defined in `on`
 ```
