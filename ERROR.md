@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ No event triggers defined in `on`
+tux@linux:~$ Segmentation fault (core dumped)
 ```
