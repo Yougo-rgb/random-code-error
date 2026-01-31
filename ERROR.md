@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ error: failed to push some refs to 'https://github.com/Yougo-rgb/random-code-error'
+root@linux:~$ No event triggers defined in `on`
 ```
