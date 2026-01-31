@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ No event triggers defined in `on`
+yougo-rgb@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
