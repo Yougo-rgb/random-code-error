@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ fatal error: unexpected EOF while looking for matching '}'
+octocat@linux:~$ TypeError: undefined is not a function
 ```
