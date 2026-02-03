@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+user@linux:~$ ModuleNotFoundError : No module named 'PIL'
 ```
