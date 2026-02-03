@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ fatal error: unexpected EOF while looking for matching '}'
+user@linux:~$ java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
 ```
