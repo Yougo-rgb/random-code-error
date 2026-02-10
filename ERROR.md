@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
+yougo-rgb@linux:~$ error: failed to push some refs to 'https://github.com/Yougo-rgb/random-code-error'
 ```
