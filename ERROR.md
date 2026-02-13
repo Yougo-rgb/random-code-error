@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ ./main.c:118: warning 110: conditional flow changed by optimizer: so said EVELYN the modified DOG
+octocat@linux:~$ python: can't open file '/home/runner/work/random-code-error/random-code-error/generator.py': [Errno 2] No such file or directory
 ```
