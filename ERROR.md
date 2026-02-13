@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ python: can't open file '/home/runner/work/random-code-error/random-code-error/generator.py': [Errno 2] No such file or directory
+octocat@linux:~$ java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
 ```
