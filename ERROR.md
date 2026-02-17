@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ panic: runtime error: index out of range
+root@linux:~$ NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
 ```
