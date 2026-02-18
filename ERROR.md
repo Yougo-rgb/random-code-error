@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+root@linux:~$ Segmentation fault (core dumped)
 ```
