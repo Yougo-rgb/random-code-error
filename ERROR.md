@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ error: failed to push some refs to 'https://github.com/Yougo-rgb/random-code-error'
+root@linux:~$ NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
 ```
