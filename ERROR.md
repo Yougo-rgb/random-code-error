@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ TypeError: undefined is not a function
+root@linux:~$ NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
 ```
