@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ Segmentation fault (core dumped)
+yougo-rgb@linux:~$ IndexError: list index out of range
 ```
