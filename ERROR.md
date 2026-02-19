@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ IndexError: list index out of range
+tux@linux:~$ IndexError: list index out of range
 ```
