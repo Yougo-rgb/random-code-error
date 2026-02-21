@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+tux@linux:~$ IndexError: list index out of range
 ```
