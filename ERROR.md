@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ Segmentation fault (core dumped)
+octocat@linux:~$ IndexError: list index out of range
 ```
