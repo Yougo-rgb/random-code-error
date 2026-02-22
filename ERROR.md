@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ fatal error: unexpected EOF while looking for matching '}'
+root@linux:~$ panic: runtime error: index out of range
 ```
