@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ ReferenceError: x is not defined
+user@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
