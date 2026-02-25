@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ ReferenceError: x is not defined
+yougo-rgb@linux:~$ ReferenceError: x is not defined
 ```
