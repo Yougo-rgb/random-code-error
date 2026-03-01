@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ Segmentation fault (core dumped)
+root@linux:~$ TypeError: undefined is not a function
 ```
