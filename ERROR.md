@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ IndexError: list index out of range
+yougo-rgb@linux:~$ No event triggers defined in `on`
 ```
