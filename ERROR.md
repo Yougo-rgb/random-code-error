@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ panic: runtime error: index out of range
+root@linux:~$ ./main.c:118: warning 110: conditional flow changed by optimizer: so said EVELYN the modified DOG
 ```
