@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ No event triggers defined in `on`
+tux@linux:~$ TypeError: undefined is not a function
 ```
