@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ No event triggers defined in `on`
+yougo-rgb@linux:~$ ReferenceError: x is not defined
 ```
