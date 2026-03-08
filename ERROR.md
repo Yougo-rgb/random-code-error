@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ IndexError: list index out of range
+root@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
