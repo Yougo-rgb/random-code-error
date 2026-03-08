@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ fatal error: unexpected EOF while looking for matching '}'
+user@linux:~$ error: failed to push some refs to 'https://github.com/Yougo-rgb/random-code-error'
 ```
