@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
+yougo-rgb@linux:~$ ModuleNotFoundError : No module named 'PIL'
 ```
