@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ Segmentation fault (core dumped)
+yougo-rgb@linux:~$ ReferenceError: x is not defined
 ```
