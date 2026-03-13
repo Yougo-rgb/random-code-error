@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ panic: runtime error: index out of range
+octocat@linux:~$ TypeError: undefined is not a function
 ```
