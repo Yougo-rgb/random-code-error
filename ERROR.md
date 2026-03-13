@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ ReferenceError: x is not defined
+yougo-rgb@linux:~$ fatal error: unexpected EOF while looking for matching '}'
 ```
