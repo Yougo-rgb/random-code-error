@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ Segmentation fault (core dumped)
+yougo-rgb@linux:~$ fatal error: unexpected EOF while looking for matching '}'
 ```
