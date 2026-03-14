@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ No event triggers defined in `on`
+octocat@linux:~$ java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
 ```
