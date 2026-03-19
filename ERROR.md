@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ IndexError: list index out of range
+root@linux:~$ No event triggers defined in `on`
 ```
