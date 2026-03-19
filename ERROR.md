@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ ReferenceError: x is not defined
+tux@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
