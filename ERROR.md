@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ ModuleNotFoundError : No module named 'PIL'
+yougo-rgb@linux:~$ No event triggers defined in `on`
 ```
