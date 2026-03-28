@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ Segmentation fault (core dumped)
+root@linux:~$ Segmentation fault (core dumped)
 ```
