@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ panic: runtime error: index out of range
+octocat@linux:~$ No event triggers defined in `on`
 ```
