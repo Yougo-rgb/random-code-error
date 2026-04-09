@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ panic: runtime error: index out of range
+tux@linux:~$ fatal error: unexpected EOF while looking for matching '}'
 ```
