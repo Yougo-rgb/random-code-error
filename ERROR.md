@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ No event triggers defined in `on`
+root@linux:~$ No event triggers defined in `on`
 ```
