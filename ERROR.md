@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
+octocat@linux:~$ NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
 ```
