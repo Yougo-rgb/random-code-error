@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
+yougo-rgb@linux:~$ TypeError: undefined is not a function
 ```
