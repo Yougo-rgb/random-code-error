@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ ReferenceError: x is not defined
+root@linux:~$ TypeError: undefined is not a function
 ```
