@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ Segmentation fault (core dumped)
+user@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
