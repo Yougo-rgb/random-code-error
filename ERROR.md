@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ ModuleNotFoundError : No module named 'PIL'
+yougo-rgb@linux:~$ NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
 ```
