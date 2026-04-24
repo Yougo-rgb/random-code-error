@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ Segmentation fault (core dumped)
+user@linux:~$ ModuleNotFoundError : No module named 'PIL'
 ```
