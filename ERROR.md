@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ TypeError: undefined is not a function
+root@linux:~$ fatal error: unexpected EOF while looking for matching '}'
 ```
