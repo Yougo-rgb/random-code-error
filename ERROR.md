@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ ReferenceError: x is not defined
+yougo-rgb@linux:~$ TypeError: undefined is not a function
 ```
