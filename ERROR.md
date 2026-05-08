@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ TypeError: undefined is not a function
+root@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
