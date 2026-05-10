@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ ModuleNotFoundError : No module named 'PIL'
+user@linux:~$ fatal error: unexpected EOF while looking for matching '}'
 ```
