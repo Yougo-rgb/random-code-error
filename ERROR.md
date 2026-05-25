@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ Segmentation fault (core dumped)
+yougo-rgb@linux:~$ No event triggers defined in `on`
 ```
