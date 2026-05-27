@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ ModuleNotFoundError : No module named 'PIL'
+tux@linux:~$ TypeError: undefined is not a function
 ```
