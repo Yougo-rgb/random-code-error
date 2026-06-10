@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ ModuleNotFoundError : No module named 'PIL'
+octocat@linux:~$ Segmentation fault (core dumped)
 ```
