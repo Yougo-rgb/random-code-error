@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ IndexError: list index out of range
+user@linux:~$ ReferenceError: x is not defined
 ```
