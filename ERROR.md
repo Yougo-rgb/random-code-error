@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ panic: runtime error: index out of range
+octocat@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
 ```
