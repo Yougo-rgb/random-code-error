@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ No event triggers defined in `on`
+user@linux:~$ ReferenceError: x is not defined
 ```
