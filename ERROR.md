@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ TypeError: undefined is not a function
+yougo-rgb@linux:~$ java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
 ```
