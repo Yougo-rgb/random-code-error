@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ ReferenceError: x is not defined
+tux@linux:~$ No event triggers defined in `on`
 ```
