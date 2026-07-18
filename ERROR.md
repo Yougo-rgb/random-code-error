@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ TypeError: undefined is not a function
+tux@linux:~$ java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
 ```
