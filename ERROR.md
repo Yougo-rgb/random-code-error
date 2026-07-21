@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'then' of undefined
+user@linux:~$ fatal error: unexpected EOF while looking for matching '}'
 ```
