@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ fatal error: unexpected EOF while looking for matching '}'
+user@linux:~$ ReferenceError: x is not defined
 ```
