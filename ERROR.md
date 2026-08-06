@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ IndexError: list index out of range
+octocat@linux:~$ fatal error: unexpected EOF while looking for matching '}'
 ```
