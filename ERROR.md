@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ ReferenceError: x is not defined
+root@linux:~$ ReferenceError: x is not defined
 ```
