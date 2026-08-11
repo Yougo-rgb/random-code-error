@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ ReferenceError: x is not defined
+octocat@linux:~$ fatal error: unexpected EOF while looking for matching '}'
 ```
