@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ ./main.c:118: warning 110: conditional flow changed by optimizer: so said EVELYN the modified DOG
+yougo-rgb@linux:~$ NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
 ```
