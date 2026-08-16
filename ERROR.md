@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ TypeError: undefined is not a function
+yougo-rgb@linux:~$ TypeError: undefined is not a function
 ```
