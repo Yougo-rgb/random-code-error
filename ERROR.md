@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ TypeError: undefined is not a function
+tux@linux:~$ panic: runtime error: index out of range
 ```
