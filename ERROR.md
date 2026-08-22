@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ error: failed to push some refs to 'https://github.com/Yougo-rgb/random-code-error'
+user@linux:~$ ./main.c:118: warning 110: conditional flow changed by optimizer: so said EVELYN the modified DOG
 ```
