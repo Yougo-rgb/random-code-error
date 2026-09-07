@@ -1,3 +1,3 @@
 ```txt
-octocat@linux:~$ ModuleNotFoundError : No module named 'PIL'
+tux@linux:~$ IndexError: list index out of range
 ```
