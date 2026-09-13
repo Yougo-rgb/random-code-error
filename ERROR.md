@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ ModuleNotFoundError : No module named 'PIL'
+root@linux:~$ ModuleNotFoundError : No module named 'PIL'
 ```
