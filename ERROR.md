@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ Segmentation fault (core dumped)
+user@linux:~$ No event triggers defined in `on`
 ```
