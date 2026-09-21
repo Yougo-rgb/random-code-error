@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ IndexError: list index out of range
+user@linux:~$ ModuleNotFoundError : No module named 'PIL'
 ```
