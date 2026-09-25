@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ IndexError: list index out of range
+root@linux:~$ Segmentation fault (core dumped)
 ```
