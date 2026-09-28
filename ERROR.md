@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ ReferenceError: x is not defined
+user@linux:~$ java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
 ```
