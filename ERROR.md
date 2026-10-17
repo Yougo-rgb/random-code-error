@@ -1,3 +1,3 @@
 ```txt
-tux@linux:~$ panic: runtime error: index out of range
+yougo-rgb@linux:~$ ModuleNotFoundError : No module named 'PIL'
 ```
