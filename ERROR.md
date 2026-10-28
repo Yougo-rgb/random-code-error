@@ -1,3 +1,3 @@
 ```txt
-root@linux:~$ NullPointerException: Cannot invoke "Object.toString()" because "<variable>" is null
+octocat@linux:~$ java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
 ```
