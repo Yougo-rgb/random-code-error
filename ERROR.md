@@ -1,3 +1,3 @@
 ```txt
-user@linux:~$ ReferenceError: x is not defined
+octocat@linux:~$ panic: runtime error: index out of range
 ```
