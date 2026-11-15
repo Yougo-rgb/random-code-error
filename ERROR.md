@@ -1,3 +1,3 @@
 ```txt
-yougo-rgb@linux:~$ ReferenceError: x is not defined
+user@linux:~$ ModuleNotFoundError : No module named 'PIL'
 ```
